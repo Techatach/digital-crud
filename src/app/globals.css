@@ -2,9 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  font-family: "Kanit", sans-serif !important;
+  font-size: 18px;
+  font-weight: normal;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
+  /* --background-start-rgb: 214, 219, 220; */
   --background-end-rgb: 255, 255, 255;
 }
 
