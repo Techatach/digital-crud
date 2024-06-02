@@ -15,33 +15,36 @@ export default function Teacher() {
           </div> */}
           <div class="md:grid flex">
             <div class="flex items-center justify-center md:flex-row flex-col space-x-4  p-2">
-              <div class="flex-col px-6 py-2  max-w-7xl">
+              <div class="flex-col px-6 py-2  max-w-7xl flex items-center justify-center">
                 <div class="md:h-40 h-28 w-28 md:w-40 rounded-full overflow-hidden bg-gray-200">
                   <img
-                    src="https://source.unsplash.com/300x300/?man,businessman"
+                    // src="https://source.unsplash.com/300x300/?man,businessman"
+                    src="images/te.jpg"
                     alt=""
                     class=""
                   />
                 </div>
-
                 <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
-                  John Doe
+                  อ.ดร.เตชทัช คลายโศกก์
                 </div>
-                <div class=" italic text-gray-500">CEO, Tailblocks</div>
+                <div class=" italic text-gray-500">
+                  การเปลี่ยนแปลงและการพัฒนาองค์การภาครัฐ
+                </div>
+                <div class=" italic text-gray-500">
+                  การวิเคราะห์ข้อมูลขนาดใหญ่ สำหรับรัฐประศาสนศาสตร์
+                </div>
               </div>
               <div class="flex-col px-6 py-2 ">
                 <div class="md:h-40 h-28 w-28 md:w-40 rounded-full overflow-hidden bg-gray-200">
-                  <img
-                    src="https://source.unsplash.com/300x300/?boy"
-                    alt=""
-                    class=""
-                  />
+                  <img src="images/te.jpg" alt="" class="" />
                 </div>
 
                 <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
-                  Arkay
+                  อ.ดร.เตชทัช คลายโศกก์
                 </div>
-                <div class=" italic text-gray-500">Executive Producer</div>
+                <div class=" italic text-gray-500">
+                  อาจารย์ผู้รับผิดชอบหลักสูตร
+                </div>
               </div>
               <div class="flex-col px-6 py-2 ">
                 <div class="md:h-40 h-28 w-28 md:w-40 rounded-full overflow-hidden bg-gray-200">

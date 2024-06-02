@@ -11,15 +11,16 @@ export default function Team() {
             <div class="flex items-center justify-center lg:flex-row flex-col space-x-4 space-y-4 p-2">
               <div class="flex-col px-6 py-2 w-[90%] md:w-[50%] lg:w-1/4">
                 <div class="h-40 w-40 border-2 border-yellow-400 rounded-full overflow-hidden bg-gray-200">
-                  <img
+                  {/* <img
                     src="https://source.unsplash.com/300x300/?girl"
                     alt=""
                     class=""
-                  />
+                  /> */}
+                  <img src="images/p2.jpg" alt="" class="" />
                 </div>
 
-                <div class="text-md text-white cursor-pointer w-[50%] bg-yellow-400 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
-                  Designer
+                <div class="text-md text-white cursor-pointer w-[50%] bg-yellow-900 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
+                  ความมีเหตุผล
                 </div>
                 <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
                   Elina Gilbert
@@ -32,15 +33,16 @@ export default function Team() {
               </div>
               <div class="flex-col px-6 py-2 w-[90%] md:w-[50%] lg:w-1/4">
                 <div class="h-40 w-40 border-2 border-green-400 rounded-full overflow-hidden bg-gray-200">
-                  <img
+                  {/* <img
                     src="https://source.unsplash.com/300x300/?boy"
                     alt=""
                     class=""
-                  />
+                  /> */}
+                  <img src="images/p1.jpg" alt="" class="" />
                 </div>
 
-                <div class="text-md text-white cursor-pointer w-[50%] bg-green-400 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
-                  Front-end
+                <div class="text-md text-white cursor-pointer w-[50%] bg-green-900 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
+                  ความพอประมาณ
                 </div>
                 <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
                   John Doe
@@ -53,15 +55,16 @@ export default function Team() {
               </div>
               <div class="flex-col px-6 py-2 w-[90%] md:w-[50%] lg:w-1/4">
                 <div class="h-40 w-40 border-2 border-cyan-400 rounded-full overflow-hidden bg-gray-200">
-                  <img
+                  {/* <img
                     src="https://source.unsplash.com/300x300/?boy,man"
                     alt=""
                     class=""
-                  />
+                  /> */}
+                  <img src="images/p3.jpg" alt="" class="" />
                 </div>
 
-                <div class="text-md text-white cursor-pointer w-[50%] bg-cyan-400 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
-                  CEO
+                <div class="text-md text-white cursor-pointer w-[50%] bg-cyan-900 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
+                  ภูมิคุ้มกัน
                 </div>
                 <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
                   Arkay
@@ -74,18 +77,42 @@ export default function Team() {
               </div>
               <div class="flex-col px-6 py-2 w-[90%] md:w-[50%] lg:w-1/4">
                 <div class="h-40 w-40 border-2 border-fuchsia-400 rounded-full overflow-hidden bg-gray-200">
-                  <img
+                  {/* <img
                     src="https://source.unsplash.com/300x300/?girl"
                     alt=""
                     class=""
-                  />
+                  /> */}
+                  <img src="images/p1.jpg" alt="" class="" />
                 </div>
 
-                <div class="text-md text-white cursor-pointer w-[50%] bg-fuchsia-400 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
-                  Deployer
+                <div class="text-md text-white cursor-pointer w-[50%] bg-fuchsia-900 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
+                  ความรู้
                 </div>
                 <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
                   Ashley Adams
+                </div>
+                <div class="text-left m-2">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                  Exercitationem deserunt, dolorum illo consequatur, natus aut,
+                  esse dignissimos rem facilis ipsa numquam
+                </div>
+              </div>
+            </div>
+            <div class="flex items-center justify-center lg:flex-row flex-col space-x-4 space-y-4 p-2">
+              <div class="flex-col px-6 py-2 w-[90%] md:w-[50%] lg:w-1/4">
+                <div class="h-40 w-40 border-2 border-yellow-400 rounded-full overflow-hidden bg-gray-200">
+                  {/* <img
+                    src="https://source.unsplash.com/300x300/?girl"
+                    alt=""
+                    class=""
+                  /> */}
+                  <img src="images/p2.jpg" alt="" class="" />
+                </div>
+                <div class="text-md text-white cursor-pointer w-[50%] bg-yellow-800 lg:rotate-90 mr-40 mt-8 lg:mb-16 pr-4 pl-1 py-1">
+                  คุณธรรม
+                </div>
+                <div class="text-lg font-medium text-stone-600 cursor-pointer hover:text-stone-400">
+                  คุณธรรม จริยธรรม
                 </div>
                 <div class="text-left m-2">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.

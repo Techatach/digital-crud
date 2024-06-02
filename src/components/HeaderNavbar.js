@@ -6,7 +6,7 @@ export default function HeaderNavbar() {
       <div class="flex justify-center ">
         <div class="self-center top-0 w-full max-w-8xl ">
           <div class="flex justify-center items-center text-gray-700">
-            <div class="mx-2 my-4 ">
+            <div class="mx-2 my-4">
               {/* <ion-icon
                 name="logo-pwa"
                 class="text-5xl text-blue-600 hover:text-stone-600"
